@@ -1,0 +1,726 @@
+{"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-18T05:36:25.605Z"}
+2015-03-18 01:36:30 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei, Jianhe
+I, [2015-03-18T01:42:01.880238 #16811]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-18T05:42:00.867Z"}
+
+I, [2015-03-18T01:42:01.926072 #16811]  INFO -- : 2015-03-18 01:42:01 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-03-18T04:23:51.260846 #16811]  INFO -- : 2015-03-18 04:23:51 -0400: Shicheng, Hanyue, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-03-18T04:52:10.172587 #16811]  INFO -- : 2015-03-18 04:52:10 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-03-18T09:28:13.611220 #16811]  INFO -- : 2015-03-18 09:28:13 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-03-18T10:06:01.729317 #16811]  INFO -- : 2015-03-18 10:06:01 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-18T11:10:47.264360 #16811]  INFO -- : 2015-03-18 11:10:47 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-18T11:40:22.618124 #16811]  INFO -- : 2015-03-18 11:40:22 -0400: Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-18T13:44:56.582070 #16811]  INFO -- : 2015-03-18 13:44:56 -0400: Hanyue, Xiaoxi
+
+I, [2015-03-18T14:08:24.702564 #16811]  INFO -- : 2015-03-18 14:08:24 -0400: Xiaoxi
+
+I, [2015-03-18T18:47:08.909624 #16811]  INFO -- : 2015-03-18 18:47:08 -0400: Xiaoxi
+
+I, [2015-03-18T21:17:45.610171 #16811]  INFO -- : 2015-03-18 21:17:45 -0400: Xiaoxi, Zhengyang
+
+I, [2015-03-18T21:45:19.678487 #16811]  INFO -- : 2015-03-18 21:45:19 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-18T21:45:34.754738 #22057]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-19T01:45:27.789Z"}
+
+I, [2015-03-18T21:45:34.811133 #22057]  INFO -- : 2015-03-18 21:45:34 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-18T21:55:08.788074 #22511]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-19T01:54:54.524Z"}
+
+I, [2015-03-18T21:55:08.817682 #22511]  INFO -- : 2015-03-18 21:55:08 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-18T22:13:37.477040 #22949]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-19T02:13:23.245Z"}
+
+I, [2015-03-18T22:13:37.511994 #22949]  INFO -- : 2015-03-18 22:13:37 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-18T23:47:37.771217 #22949]  INFO -- : 2015-03-18 23:47:37 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-19T01:15:47.849768 #22949]  INFO -- : 2015-03-19 01:15:47 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-19T01:26:21.610849 #22949]  INFO -- : 2015-03-19 01:26:21 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Jianhe
+
+I, [2015-03-19T01:36:20.845246 #22949]  INFO -- : 2015-03-19 01:36:20 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Jianhe
+
+I, [2015-03-19T03:50:53.970285 #22949]  INFO -- : 2015-03-19 03:50:53 -0400: Shicheng, Hanyue, Zhengyang, Jiesi, Jianhe
+
+I, [2015-03-19T04:17:46.902570 #22949]  INFO -- : 2015-03-19 04:17:46 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Jianhe
+
+I, [2015-03-19T05:55:50.781261 #22949]  INFO -- : 2015-03-19 05:55:50 -0400: Shicheng, Hanyue, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-03-19T06:14:50.962795 #22949]  INFO -- : 2015-03-19 06:14:50 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-03-19T06:23:09.729952 #22949]  INFO -- : 2015-03-19 06:23:09 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-03-19T06:31:15.609132 #22949]  INFO -- : 2015-03-19 06:31:15 -0400: Shicheng, Hanyue, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-03-19T06:36:20.647603 #22949]  INFO -- : 2015-03-19 06:36:20 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-03-19T06:48:55.388149 #22949]  INFO -- : 2015-03-19 06:48:55 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Jianhe
+
+I, [2015-03-19T08:46:17.674277 #22949]  INFO -- : 2015-03-19 08:46:17 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-19T08:58:20.644631 #31093]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-19T12:58:04.310Z"}
+
+I, [2015-03-19T08:58:20.671224 #31093]  INFO -- : 2015-03-19 08:58:20 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-19T09:19:54.882005 #31093]  INFO -- : 2015-03-19 09:19:54 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-19T10:08:21.028553 #31093]  INFO -- : 2015-03-19 10:08:21 -0400: Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-19T10:45:00.166260 #31093]  INFO -- : 2015-03-19 10:45:00 -0400: Xiaoxi, Zhengyang
+
+I, [2015-03-19T12:18:19.215155 #31093]  INFO -- : 2015-03-19 12:18:19 -0400: Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-19T13:54:58.176595 #31093]  INFO -- : 2015-03-19 13:54:58 -0400: Xiaoxi, Sipei
+
+I, [2015-03-19T15:13:24.792767 #31093]  INFO -- : 2015-03-19 15:13:24 -0400: Xiaoxi
+
+I, [2015-03-19T15:35:03.322847 #31093]  INFO -- : 2015-03-19 15:35:03 -0400: 
+
+I, [2015-03-19T18:53:30.313761 #31093]  INFO -- : 2015-03-19 18:53:30 -0400: Zhengyang
+
+I, [2015-03-19T19:48:05.776786 #31093]  INFO -- : 2015-03-19 19:48:05 -0400: Hanyue, Zhengyang
+
+I, [2015-03-19T21:36:18.639030 #31093]  INFO -- : 2015-03-19 21:36:18 -0400: Shicheng, Hanyue, Zhengyang
+
+I, [2015-03-19T22:21:37.161256 #31093]  INFO -- : 2015-03-19 22:21:37 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:31:48.089866 #4373]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-20T02:31:34.050Z"}
+
+I, [2015-03-19T22:31:48.125538 #4373]  INFO -- : 2015-03-19 22:31:48 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:32:29.848544 #4412]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-20T02:32:24.176Z"}
+
+I, [2015-03-19T22:32:29.893727 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:32:38.842921 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:32:47.331055 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:32:55.905415 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:33:04.428391 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:33:12.609805 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:33:20.777123 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:33:36.101835 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:33:44.417201 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:33:52.815329 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:34:01.085303 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:34:09.580261 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:34:17.890900 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:34:26.602255 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:34:35.102470 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:34:43.663746 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:34:51.819564 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:35:00.262842 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:35:08.868052 #4412]  INFO -- : 2015-03-19 22:32:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-19T22:35:12.629218 #4948]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-20T02:35:08.826Z"}
+
+I, [2015-03-19T22:35:12.657620 #4948]  INFO -- : 2015-03-19 22:35:12 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-20T00:16:48.942584 #4948]  INFO -- : 2015-03-20 00:16:48 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-20T09:34:42.181628 #31271]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-20T13:34:28.467Z"}
+
+I, [2015-03-20T09:34:42.205556 #31271]  INFO -- : 2015-03-20 09:34:42 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-20T10:19:51.216860 #31271]  INFO -- : 2015-03-20 10:19:51 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-20T11:20:06.070737 #31271]  INFO -- : 2015-03-20 11:20:06 -0400: Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-20T11:50:14.572706 #31271]  INFO -- : 2015-03-20 11:50:14 -0400: Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-20T12:20:30.454735 #31271]  INFO -- : 2015-03-20 12:20:30 -0400: Xiaoxi
+
+I, [2015-03-20T15:50:46.976106 #31271]  INFO -- : 2015-03-20 15:50:46 -0400: Hanyue, Xiaoxi
+
+I, [2015-03-20T18:35:56.387597 #31271]  INFO -- : 2015-03-20 18:35:56 -0400: Hanyue, Jiesi, Sipei
+
+I, [2015-03-20T22:18:55.855679 #31271]  INFO -- : 2015-03-20 22:18:55 -0400: Shicheng, Hanyue, Jiesi, Sipei
+
+I, [2015-03-20T23:14:14.528560 #31271]  INFO -- : 2015-03-20 23:14:14 -0400: Shicheng, Hanyue, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-20T23:15:17.661764 #31271]  INFO -- : 2015-03-20 23:15:17 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-21T00:15:25.875210 #31271]  INFO -- : 2015-03-21 00:15:25 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-21T01:49:02.813942 #31271]  INFO -- : 2015-03-21 01:49:02 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-03-21T03:19:50.862305 #31271]  INFO -- : 2015-03-21 03:19:50 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-21T10:45:13.185653 #31271]  INFO -- : 2015-03-21 10:45:13 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-21T11:00:22.567353 #31271]  INFO -- : 2015-03-21 11:00:22 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-21T11:30:37.523329 #31271]  INFO -- : 2015-03-21 11:30:37 -0400: Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-21T12:30:46.558752 #31271]  INFO -- : 2015-03-21 12:30:46 -0400: Hanyue, Sipei
+
+I, [2015-03-21T14:15:56.179861 #31271]  INFO -- : 2015-03-21 14:15:56 -0400: Hanyue
+
+I, [2015-03-21T19:57:41.203613 #31271]  INFO -- : 2015-03-21 19:57:41 -0400: Shicheng, Hanyue
+
+I, [2015-03-21T20:02:51.725274 #31271]  INFO -- : 2015-03-21 20:02:51 -0400: Shicheng, Hanyue, Xiaoxi
+
+I, [2015-03-21T20:10:56.350045 #31271]  INFO -- : 2015-03-21 20:10:56 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-21T21:20:48.159355 #31271]  INFO -- : 2015-03-21 21:20:48 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-21T21:24:12.099458 #31271]  INFO -- : 2015-03-21 21:24:12 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-21T23:02:34.896462 #21427]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-22T03:02:23.429Z"}
+
+I, [2015-03-21T23:02:34.940464 #21427]  INFO -- : 2015-03-21 23:02:34 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-21T23:25:41.994785 #21427]  INFO -- : 2015-03-21 23:25:41 -0400: Shicheng, Hanyue, Zhengyang
+
+I, [2015-03-21T23:30:17.667577 #21427]  INFO -- : 2015-03-21 23:30:17 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-22T08:34:30.272490 #9562]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-22T12:34:21.896Z"}
+
+I, [2015-03-22T08:34:30.303238 #9562]  INFO -- : 2015-03-22 08:34:30 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-22T10:45:01.669336 #9562]  INFO -- : 2015-03-22 10:45:01 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-22T12:45:11.716761 #9562]  INFO -- : 2015-03-22 12:45:11 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-22T13:00:26.939654 #9562]  INFO -- : 2015-03-22 13:00:26 -0400: Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-22T13:45:35.810761 #9562]  INFO -- : 2015-03-22 13:45:35 -0400: Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-22T17:16:12.658344 #9562]  INFO -- : 2015-03-22 17:16:12 -0400: Xiaoxi, Zhengyang
+
+I, [2015-03-22T21:03:12.213997 #9562]  INFO -- : 2015-03-22 21:03:12 -0400: Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-23T00:07:12.015887 #9562]  INFO -- : 2015-03-23 00:07:12 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-23T01:03:15.269040 #9562]  INFO -- : 2015-03-23 01:03:15 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-23T02:43:56.883778 #9562]  INFO -- : 2015-03-23 02:43:56 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-23T10:00:01.921343 #9562]  INFO -- : 2015-03-23 10:00:01 -0400: Shicheng, Hanyue, Xiaoxi, Jiesi, Sipei
+
+I, [2015-03-23T10:45:17.171998 #9562]  INFO -- : 2015-03-23 10:45:17 -0400: Hanyue, Xiaoxi, Jiesi, Sipei
+
+I, [2015-03-23T11:00:25.651324 #9562]  INFO -- : 2015-03-23 11:00:25 -0400: Hanyue, Xiaoxi, Sipei
+
+I, [2015-03-23T12:00:40.496087 #9562]  INFO -- : 2015-03-23 12:00:40 -0400: Hanyue, Sipei
+
+I, [2015-03-23T13:00:49.212344 #9562]  INFO -- : 2015-03-23 13:00:49 -0400: Hanyue
+
+I, [2015-03-23T13:16:04.684073 #9562]  INFO -- : 2015-03-23 13:16:04 -0400: 
+
+I, [2015-03-23T20:16:30.084834 #9562]  INFO -- : 2015-03-23 20:16:30 -0400: Shicheng
+
+I, [2015-03-23T21:16:20.142478 #9562]  INFO -- : 2015-03-23 21:16:20 -0400: Shicheng, Hanyue
+
+I, [2015-03-23T22:23:21.465369 #9562]  INFO -- : 2015-03-23 22:23:21 -0400: Shicheng, Hanyue, Xiaoxi
+
+I, [2015-03-24T00:36:43.821904 #9562]  INFO -- : 2015-03-24 00:36:43 -0400: Shicheng, Hanyue, Xiaoxi
+
+I, [2015-03-24T00:37:28.970536 #9562]  INFO -- : 2015-03-24 00:37:28 -0400: Shicheng, Hanyue
+
+I, [2015-03-24T00:39:39.646154 #9562]  INFO -- : 2015-03-24 00:39:39 -0400: Shicheng, Hanyue, Xiaoxi
+
+I, [2015-03-24T00:39:55.568239 #9562]  INFO -- : 2015-03-24 00:39:55 -0400: Shicheng, Hanyue
+
+I, [2015-03-24T00:40:07.416757 #9562]  INFO -- : 2015-03-24 00:40:07 -0400: Shicheng, Hanyue, Xiaoxi
+
+I, [2015-03-24T00:40:38.070824 #9562]  INFO -- : 2015-03-24 00:40:38 -0400: Shicheng, Hanyue
+
+I, [2015-03-24T00:41:38.500578 #9562]  INFO -- : 2015-03-24 00:41:38 -0400: Shicheng, Hanyue, Xiaoxi
+
+I, [2015-03-24T00:42:23.024595 #9562]  INFO -- : 2015-03-24 00:42:23 -0400: Shicheng, Hanyue
+
+I, [2015-03-24T00:44:47.083337 #9562]  INFO -- : 2015-03-24 00:44:47 -0400: Shicheng, Hanyue, Xiaoxi, Jiesi
+
+I, [2015-03-24T00:52:40.577069 #9562]  INFO -- : 2015-03-24 00:52:40 -0400: Shicheng, Hanyue, Jiesi
+
+I, [2015-03-24T00:52:55.607002 #9562]  INFO -- : 2015-03-24 00:52:55 -0400: Shicheng, Hanyue, Xiaoxi, Jiesi
+
+I, [2015-03-24T00:53:13.807547 #9562]  INFO -- : 2015-03-24 00:53:13 -0400: Shicheng, Hanyue, Jiesi
+
+I, [2015-03-24T00:58:01.860628 #9562]  INFO -- : 2015-03-24 00:58:01 -0400: Shicheng, Hanyue, Xiaoxi, Jiesi
+
+I, [2015-03-24T00:58:19.131667 #9562]  INFO -- : 2015-03-24 00:58:19 -0400: Shicheng, Hanyue, Jiesi
+
+I, [2015-03-24T00:58:33.967293 #9562]  INFO -- : 2015-03-24 00:58:33 -0400: Shicheng, Hanyue, Xiaoxi, Jiesi
+
+I, [2015-03-24T00:58:42.954243 #9562]  INFO -- : 2015-03-24 00:58:42 -0400: Shicheng, Hanyue, Jiesi
+
+I, [2015-03-24T01:01:11.253133 #9562]  INFO -- : 2015-03-24 01:01:11 -0400: Shicheng, Hanyue, Xiaoxi, Jiesi
+
+I, [2015-03-24T01:43:46.472655 #9562]  INFO -- : 2015-03-24 01:43:46 -0400: Shicheng, Hanyue, Xiaoxi, Jiesi, Sipei
+
+I, [2015-03-24T19:25:47.462361 #25904]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-24T23:25:38.110Z"}
+
+I, [2015-03-24T19:25:47.509910 #25904]  INFO -- : 2015-03-24 19:25:47 -0400: Shicheng, Hanyue, Zhengyang
+
+I, [2015-03-24T22:03:49.613888 #25904]  INFO -- : 2015-03-24 22:03:49 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-24T23:47:54.565969 #25904]  INFO -- : 2015-03-24 23:47:54 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-25T00:23:34.100092 #25904]  INFO -- : 2015-03-25 00:23:34 -0400: Shicheng, Hanyue, Zhengyang, Jiesi
+
+I, [2015-03-25T00:31:03.819456 #25904]  INFO -- : 2015-03-25 00:31:03 -0400: Shicheng, Hanyue, Jiesi
+
+I, [2015-03-25T00:32:16.902967 #25904]  INFO -- : 2015-03-25 00:32:16 -0400: Shicheng, Hanyue, Zhengyang, Jiesi
+
+I, [2015-03-25T00:38:42.337736 #25904]  INFO -- : 2015-03-25 00:38:42 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-25T10:44:10.900445 #9497]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-25T14:43:54.174Z"}
+
+I, [2015-03-25T10:44:10.967588 #9497]  INFO -- : 2015-03-25 10:44:10 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-25T11:29:26.566709 #9497]  INFO -- : 2015-03-25 11:29:26 -0400: Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-25T11:59:38.137675 #9497]  INFO -- : 2015-03-25 11:59:38 -0400: Hanyue, Zhengyang, Sipei
+
+I, [2015-03-25T13:14:56.182123 #9497]  INFO -- : 2015-03-25 13:14:56 -0400: Zhengyang, Sipei
+
+I, [2015-03-25T15:15:08.368209 #9497]  INFO -- : 2015-03-25 15:15:08 -0400: Zhengyang
+
+I, [2015-03-25T15:45:25.097149 #9497]  INFO -- : 2015-03-25 15:45:25 -0400: 
+
+I, [2015-03-25T18:00:36.540736 #9497]  INFO -- : 2015-03-25 18:00:36 -0400: Zhengyang
+
+I, [2015-03-25T21:20:53.666944 #9497]  INFO -- : 2015-03-25 21:20:53 -0400: Xiaoxi, Zhengyang
+
+I, [2015-03-25T21:23:58.839954 #9497]  INFO -- : 2015-03-25 21:23:58 -0400: Shicheng, Xiaoxi, Zhengyang
+
+I, [2015-03-25T22:44:55.310791 #9497]  INFO -- : 2015-03-25 22:44:55 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-26T00:14:47.483429 #9497]  INFO -- : 2015-03-26 00:14:47 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-26T05:19:15.143936 #9497]  INFO -- : 2015-03-26 05:19:15 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-26T07:32:42.581615 #9497]  INFO -- : 2015-03-26 07:32:42 -0400: Shicheng, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-26T10:15:01.854053 #9497]  INFO -- : 2015-03-26 10:15:01 -0400: Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-26T10:30:18.542113 #9497]  INFO -- : 2015-03-26 10:30:18 -0400: Xiaoxi, Sipei
+
+I, [2015-03-26T12:30:29.508297 #9497]  INFO -- : 2015-03-26 12:30:29 -0400: Xiaoxi
+
+I, [2015-03-26T14:30:46.921552 #9497]  INFO -- : 2015-03-26 14:30:46 -0400: 
+
+I, [2015-03-26T18:00:57.289966 #9497]  INFO -- : 2015-03-26 18:00:57 -0400: Zhengyang
+
+I, [2015-03-26T18:41:38.271103 #4664]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-26T22:41:23.910Z"}
+
+I, [2015-03-26T18:41:38.316533 #4664]  INFO -- : 2015-03-26 18:41:38 -0400: Shicheng, Zhengyang
+
+I, [2015-03-26T18:42:57.665279 #4713]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-26T22:42:33.599Z"}
+
+I, [2015-03-26T18:42:57.694030 #4713]  INFO -- : 2015-03-26 18:42:57 -0400: Shicheng, Zhengyang
+
+I, [2015-03-26T18:48:05.574177 #4763]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-26T22:47:42.388Z"}
+
+I, [2015-03-26T18:48:05.598113 #4763]  INFO -- : 2015-03-26 18:48:05 -0400: Shicheng, Zhengyang
+
+I, [2015-03-26T19:51:30.575492 #4763]  INFO -- : 2015-03-26 19:51:30 -0400: Shicheng, Hanyue, Zhengyang
+
+I, [2015-03-26T21:47:31.164279 #4763]  INFO -- : 2015-03-26 21:47:31 -0400: Shicheng, Hanyue, Zhengyang, Jiesi
+
+I, [2015-03-26T22:24:58.848298 #4763]  INFO -- : 2015-03-26 22:24:58 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-26T22:26:04.070779 #4763]  INFO -- : 2015-03-26 22:26:04 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-26T22:27:34.260887 #4763]  INFO -- : 2015-03-26 22:27:34 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-26T22:37:39.437401 #4763]  INFO -- : 2015-03-26 22:37:39 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-26T22:41:02.262735 #4763]  INFO -- : 2015-03-26 22:41:02 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-26T23:36:38.809581 #4763]  INFO -- : 2015-03-26 23:36:38 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-27T09:04:10.599424 #19011]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-27T13:03:54.102Z"}
+
+I, [2015-03-27T09:04:10.640981 #19011]  INFO -- : 2015-03-27 09:04:10 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-27T09:19:21.168663 #19011]  INFO -- : 2015-03-27 09:19:21 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-27T10:05:10.646793 #19011]  INFO -- : 2015-03-27 10:05:10 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-27T10:20:22.415475 #19011]  INFO -- : 2015-03-27 10:20:22 -0400: Hanyue, Zhengyang, Jiesi
+
+I, [2015-03-27T10:35:39.401444 #19011]  INFO -- : 2015-03-27 10:35:39 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-27T11:21:12.587978 #19011]  INFO -- : 2015-03-27 11:21:12 -0400: Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-27T13:52:11.705305 #19011]  INFO -- : 2015-03-27 13:52:11 -0400: Hanyue, Zhengyang
+
+I, [2015-03-27T16:52:23.994726 #19011]  INFO -- : 2015-03-27 16:52:23 -0400: Hanyue
+
+I, [2015-03-27T19:42:07.110201 #19011]  INFO -- : 2015-03-27 19:42:07 -0400: Shicheng, Hanyue
+
+I, [2015-03-27T20:55:06.101856 #19011]  INFO -- : 2015-03-27 20:55:06 -0400: Shicheng, Hanyue, Sipei
+
+I, [2015-03-27T22:01:53.836815 #19011]  INFO -- : 2015-03-27 22:01:53 -0400: Shicheng, Hanyue, Zhengyang, Sipei
+
+I, [2015-03-27T22:54:02.673838 #14316]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-28T02:53:47.718Z"}
+
+I, [2015-03-27T22:54:02.715877 #14316]  INFO -- : 2015-03-27 22:54:02 -0400: Shicheng, Hanyue, Sipei
+
+I, [2015-03-27T22:57:32.436632 #14316]  INFO -- : 2015-03-27 22:57:32 -0400: Shicheng, Hanyue, Zhengyang, Sipei
+
+I, [2015-03-28T00:16:51.822362 #14316]  INFO -- : 2015-03-28 00:16:51 -0400: Shicheng, Hanyue, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-28T00:25:29.809708 #14316]  INFO -- : 2015-03-28 00:25:29 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-28T03:20:32.761647 #14316]  INFO -- : 2015-03-28 03:20:32 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-03-28T04:31:52.784051 #14316]  INFO -- : 2015-03-28 04:31:52 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-28T08:09:20.255491 #15597]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-28T12:08:59.009Z"}
+
+I, [2015-03-28T08:09:20.290406 #15597]  INFO -- : 2015-03-28 08:09:20 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-28T08:13:09.085980 #15597]  INFO -- : 2015-03-28 08:13:09 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-28T08:45:07.028056 #15597]  INFO -- : 2015-03-28 08:45:07 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Jianhe
+
+I, [2015-03-28T09:15:13.188577 #15597]  INFO -- : 2015-03-28 09:15:13 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Jianhe
+
+I, [2015-03-28T10:31:51.402035 #15597]  INFO -- : 2015-03-28 10:31:51 -0400: Hanyue, Xiaoxi, Zhengyang, Jianhe
+
+I, [2015-03-28T11:17:28.263803 #15597]  INFO -- : 2015-03-28 11:17:28 -0400: Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-28T16:48:22.092582 #15597]  INFO -- : 2015-03-28 16:48:22 -0400: Hanyue, Zhengyang
+
+I, [2015-03-28T19:11:19.722718 #15597]  INFO -- : 2015-03-28 19:11:19 -0400: Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-28T21:18:19.980347 #15597]  INFO -- : 2015-03-28 21:18:19 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-28T22:03:56.494196 #15597]  INFO -- : 2015-03-28 22:03:56 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-28T22:06:56.519444 #15597]  INFO -- : 2015-03-28 22:06:56 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-28T22:14:12.944194 #15597]  INFO -- : 2015-03-28 22:14:12 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-29T11:11:51.698440 #10154]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-29T15:11:45.372Z"}
+
+I, [2015-03-29T11:11:51.797713 #10154]  INFO -- : 2015-03-29 11:11:51 -0400: Shicheng, Xiaoxi, Zhengyang, Sipei, Jianhe
+
+I, [2015-03-29T11:42:25.574619 #10154]  INFO -- : 2015-03-29 11:42:25 -0400: Shicheng, Zhengyang, Sipei, Jianhe
+
+I, [2015-03-29T13:42:46.978060 #10154]  INFO -- : 2015-03-29 13:42:46 -0400: Shicheng, Zhengyang, Sipei
+
+I, [2015-03-29T14:28:04.821698 #10154]  INFO -- : 2015-03-29 14:28:04 -0400: Zhengyang, Sipei
+
+I, [2015-03-29T17:13:17.930267 #10154]  INFO -- : 2015-03-29 17:13:17 -0400: Sipei
+
+I, [2015-03-29T18:04:00.817005 #10513]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-29T22:03:53.694Z"}
+
+I, [2015-03-29T18:04:00.851305 #10513]  INFO -- : 2015-03-29 18:04:00 -0400: Zhengyang, Sipei
+
+I, [2015-03-29T18:49:34.980691 #10513]  INFO -- : 2015-03-29 18:49:34 -0400: Zhengyang
+
+I, [2015-03-29T19:04:51.578638 #10513]  INFO -- : 2015-03-29 19:04:51 -0400: Zhengyang, Sipei
+
+I, [2015-03-29T19:15:23.960560 #10513]  INFO -- : 2015-03-29 19:15:23 -0400: Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-29T19:24:12.852199 #10513]  INFO -- : 2015-03-29 19:24:12 -0400: Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-30T01:15:18.502820 #10513]  INFO -- : 2015-03-30 01:15:18 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-30T01:40:37.373087 #10513]  INFO -- : 2015-03-30 01:40:37 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-03-30T10:55:35.312861 #7447]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-30T14:55:29.897Z"}
+
+I, [2015-03-30T10:55:35.346142 #7447]  INFO -- : 2015-03-30 10:55:35 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-30T10:59:48.790606 #7492]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-03-30T14:59:36.335Z"}
+
+I, [2015-03-30T10:59:48.823124 #7492]  INFO -- : 2015-03-30 10:59:48 -0400: Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-03-30T12:00:27.697938 #7492]  INFO -- : 2015-03-30 12:00:27 -0400: Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-30T13:00:44.395079 #7492]  INFO -- : 2015-03-30 13:00:44 -0400: Xiaoxi, Zhengyang
+
+I, [2015-03-30T13:15:54.940918 #7492]  INFO -- : 2015-03-30 13:15:54 -0400: Zhengyang
+
+I, [2015-03-30T14:01:10.334950 #7492]  INFO -- : 2015-03-30 14:01:10 -0400: 
+
+I, [2015-03-30T20:00:28.602313 #7492]  INFO -- : 2015-03-30 20:00:28 -0400: Zhengyang
+
+I, [2015-03-30T21:19:52.050949 #7492]  INFO -- : 2015-03-30 21:19:52 -0400: Hanyue, Zhengyang
+
+I, [2015-03-30T22:17:52.601869 #7492]  INFO -- : 2015-03-30 22:17:52 -0400: Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-03-31T01:43:16.621458 #7492]  INFO -- : 2015-03-31 01:43:16 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-03-31T01:55:25.726067 #7492]  INFO -- : 2015-03-31 01:55:25 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-03-31T10:01:24.762542 #7492]  INFO -- : 2015-03-31 10:01:24 -0400: Hanyue, Xiaoxi, Jiesi, Sipei
+
+I, [2015-03-31T10:31:45.544883 #7492]  INFO -- : 2015-03-31 10:31:45 -0400: Hanyue, Xiaoxi, Sipei
+
+I, [2015-03-31T10:47:01.187249 #7492]  INFO -- : 2015-03-31 10:47:01 -0400: Hanyue, Xiaoxi
+
+I, [2015-03-31T11:02:11.969067 #7492]  INFO -- : 2015-03-31 11:02:11 -0400: Xiaoxi
+
+I, [2015-03-31T13:03:24.575773 #7492]  INFO -- : 2015-03-31 13:03:24 -0400: 
+
+I, [2015-03-31T18:49:45.832049 #7492]  INFO -- : 2015-03-31 18:49:45 -0400: Hanyue, Zhengyang
+
+I, [2015-04-01T20:48:09.070815 #31220]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-02T00:47:56.459Z"}
+
+I, [2015-04-01T20:48:09.098066 #31220]  INFO -- : 2015-04-01 20:48:09 -0400: Hanyue, Zhengyang
+
+I, [2015-04-01T23:04:03.295228 #7280]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-02T03:03:53.419Z"}
+
+I, [2015-04-01T23:04:03.323871 #7280]  INFO -- : 2015-04-01 23:04:03 -0400: Hanyue, Zhengyang, Sipei
+
+I, [2015-04-02T01:50:19.657842 #7280]  INFO -- : 2015-04-02 01:50:19 -0400: Hanyue, Zhengyang, Sipei, Jianhe
+
+I, [2015-04-02T02:24:29.247648 #7280]  INFO -- : 2015-04-02 02:24:29 -0400: Hanyue, Xiaoxi, Zhengyang, Sipei, Jianhe
+
+I, [2015-04-02T10:16:33.990390 #7280]  INFO -- : 2015-04-02 10:16:33 -0400: Xiaoxi, Sipei, Jianhe
+
+I, [2015-04-02T11:33:12.189628 #7280]  INFO -- : 2015-04-02 11:33:12 -0400: Xiaoxi, Sipei
+
+I, [2015-04-02T12:03:33.551410 #7280]  INFO -- : 2015-04-02 12:03:33 -0400: Sipei
+
+I, [2015-04-02T13:33:51.227004 #7280]  INFO -- : 2015-04-02 13:33:51 -0400: 
+
+I, [2015-04-02T16:34:01.584190 #7280]  INFO -- : 2015-04-02 16:34:01 -0400: Zhengyang
+
+I, [2015-04-02T19:17:33.551966 #7280]  INFO -- : 2015-04-02 19:17:33 -0400: Hanyue, Zhengyang
+
+I, [2015-04-02T21:53:12.717080 #7280]  INFO -- : 2015-04-02 21:53:12 -0400: Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-04-03T01:51:43.811866 #7280]  INFO -- : 2015-04-03 01:51:43 -0400: Hanyue, Xiaoxi, Zhengyang, Jianhe
+
+I, [2015-04-05T18:36:10.512642 #22812]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-05T22:35:59.308Z"}
+
+I, [2015-04-05T18:38:18.718004 #22878]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-05T22:38:04.762Z"}
+
+I, [2015-04-05T18:38:18.765716 #22878]  INFO -- : 2015-04-05 18:38:18 -0400: Shicheng
+
+I, [2015-04-05T19:35:04.872870 #6905]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-05T23:34:48.646Z"}
+
+I, [2015-04-05T19:35:04.907352 #6905]  INFO -- : 2015-04-05 19:35:04 -0400: Shicheng
+
+I, [2015-04-06T01:18:11.677845 #9840]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-06T05:18:02.256Z"}
+
+I, [2015-04-06T01:18:11.748757 #9840]  INFO -- : 2015-04-06 01:18:11 -0400: Shicheng, Hanyue, Zhengyang, Jiesi
+
+I, [2015-04-06T01:46:00.059425 #9840]  INFO -- : 2015-04-06 01:46:00 -0400: Shicheng, Hanyue, Zhengyang, Jiesi, Jianhe
+
+I, [2015-04-06T03:16:43.620355 #9840]  INFO -- : 2015-04-06 03:16:43 -0400: Shicheng, Hanyue, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-04-06T07:50:46.723188 #790]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-06T11:50:28.443Z"}
+
+I, [2015-04-06T07:50:46.792240 #790]  INFO -- : 2015-04-06 07:50:46 -0400: Shicheng, Hanyue, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-04-06T08:24:23.555395 #790]  INFO -- : 2015-04-06 08:24:23 -0400: Hanyue, Zhengyang, Jiesi, Sipei, Jianhe
+
+I, [2015-04-06T11:02:30.629879 #790]  INFO -- : 2015-04-06 11:02:30 -0400: Hanyue, Zhengyang, Jiesi, Sipei
+
+I, [2015-04-06T11:17:42.375071 #790]  INFO -- : 2015-04-06 11:17:42 -0400: Hanyue, Zhengyang, Sipei
+
+I, [2015-04-06T13:18:32.367937 #790]  INFO -- : 2015-04-06 13:18:32 -0400: Zhengyang, Sipei
+
+I, [2015-04-06T14:33:44.290918 #790]  INFO -- : 2015-04-06 14:33:44 -0400: Sipei
+
+I, [2015-04-06T17:34:46.043074 #790]  INFO -- : 2015-04-06 17:34:46 -0400: 
+
+I, [2015-04-06T22:13:20.191934 #790]  INFO -- : 2015-04-06 22:13:20 -0400: Hanyue
+
+I, [2015-04-06T23:49:39.688950 #790]  INFO -- : 2015-04-06 23:49:39 -0400: Hanyue, Zhengyang
+
+I, [2015-04-07T01:13:18.101521 #790]  INFO -- : 2015-04-07 01:13:18 -0400: Hanyue, Zhengyang, Jiesi
+
+I, [2015-04-07T01:50:22.507323 #790]  INFO -- : 2015-04-07 01:50:22 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-04-07T03:41:24.545738 #790]  INFO -- : 2015-04-07 03:41:24 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-04-07T20:43:00.002796 #14875]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-08T00:42:42.302Z"}
+
+I, [2015-04-07T20:43:01.049599 #14875]  INFO -- : 2015-04-07 20:43:01 -0400: Zhengyang
+
+I, [2015-04-07T20:43:16.283654 #14875]  INFO -- : 2015-04-07 20:43:16 -0400: Shicheng, Zhengyang
+
+I, [2015-04-07T20:45:43.205054 #14939]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-08T00:45:29.074Z"}
+
+I, [2015-04-07T20:45:43.256947 #14939]  INFO -- : 2015-04-07 20:45:43 -0400: Shicheng, Zhengyang
+
+I, [2015-04-08T22:58:14.021138 #20585]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-09T02:58:00.445Z"}
+
+I, [2015-04-08T22:58:14.064233 #20585]  INFO -- : 2015-04-08 22:58:14 -0400: Hanyue, Zhengyang
+
+I, [2015-04-08T22:58:42.848710 #20643]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-09T02:58:35.034Z"}
+
+I, [2015-04-08T22:58:42.878107 #20643]  INFO -- : 2015-04-08 22:58:42 -0400: Shicheng, Hanyue, Zhengyang
+
+I, [2015-04-09T08:56:25.592297 #22916]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-09T12:56:04.887Z"}
+
+I, [2015-04-09T08:56:25.629404 #22916]  INFO -- : 2015-04-09 08:56:25 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-04-09T15:04:18.212175 #22916]  INFO -- : 2015-04-09 15:04:18 -0400: Sipei
+
+I, [2015-04-09T16:19:39.323462 #22916]  INFO -- : 2015-04-09 16:19:39 -0400: 
+
+I, [2015-04-09T18:52:29.311721 #22916]  INFO -- : 2015-04-09 18:52:29 -0400: Shicheng, Hanyue, Zhengyang
+
+I, [2015-04-09T21:15:19.902855 #22916]  INFO -- : 2015-04-09 21:15:19 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-04-10T01:03:52.314477 #22916]  INFO -- : 2015-04-10 01:03:52 -0400: Shicheng, Hanyue, Zhengyang, Jiesi
+
+I, [2015-04-10T01:39:04.386590 #22916]  INFO -- : 2015-04-10 01:39:04 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-04-10T02:24:05.842474 #22916]  INFO -- : 2015-04-10 02:24:05 -0400: Shicheng, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-04-10T03:24:39.925696 #22916]  INFO -- : 2015-04-10 03:24:39 -0400: Shicheng, Xiaoxi, Zhengyang, Jiesi, Jianhe
+
+I, [2015-04-10T09:30:39.211219 #22916]  INFO -- : 2015-04-10 09:30:39 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Jianhe
+
+I, [2015-04-10T10:48:22.811088 #22916]  INFO -- : 2015-04-10 10:48:22 -0400: Hanyue, Xiaoxi, Zhengyang, Jianhe
+
+I, [2015-04-10T13:20:33.227139 #22916]  INFO -- : 2015-04-10 13:20:33 -0400: Hanyue, Jianhe
+
+I, [2015-04-10T15:50:47.597167 #22916]  INFO -- : 2015-04-10 15:50:47 -0400: Hanyue
+
+I, [2015-04-10T20:20:11.324992 #22916]  INFO -- : 2015-04-10 20:20:11 -0400: Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-04-11T20:03:09.560513 #1322]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-12T00:02:57.956Z"}
+
+I, [2015-04-11T20:03:09.658866 #1322]  INFO -- : 2015-04-11 20:03:09 -0400: Hanyue, Zhengyang
+
+I, [2015-04-13T21:38:37.567899 #3933]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-14T01:38:18.381Z"}
+
+I, [2015-04-13T21:38:37.598166 #3933]  INFO -- : 2015-04-13 21:38:37 -0400: Shicheng, Hanyue
+
+I, [2015-04-25T14:20:54.153451 #2609]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-25T18:20:15.995Z"}
+
+I, [2015-04-25T14:20:54.184867 #2609]  INFO -- : 2015-04-25 14:20:54 -0400: Shicheng, Xiaoxi, Sipei
+
+I, [2015-04-25T15:36:14.321922 #2609]  INFO -- : 2015-04-25 15:36:14 -0400: Shicheng, Sipei
+
+I, [2015-04-25T16:51:28.426575 #2609]  INFO -- : 2015-04-25 16:51:28 -0400: Sipei
+
+I, [2015-04-26T11:42:40.590566 #11223]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-26T15:42:04.371Z"}
+
+I, [2015-04-26T11:42:40.651180 #11223]  INFO -- : 2015-04-26 11:42:40 -0400: Hanyue, Sipei
+
+I, [2015-04-26T15:28:09.817926 #11223]  INFO -- : 2015-04-26 15:28:09 -0400: Xiaoxi, Zhengyang, Sipei
+
+I, [2015-04-26T18:00:08.688398 #11223]  INFO -- : 2015-04-26 18:00:08 -0400: Xiaoxi, Zhengyang
+
+I, [2015-04-26T21:01:44.371227 #19075]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-27T01:01:10.005Z"}
+
+I, [2015-04-26T21:01:44.403453 #19075]  INFO -- : 2015-04-26 21:01:44 -0400: Shicheng, Zhengyang
+
+I, [2015-04-28T08:32:16.065110 #28960]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-04-28T12:31:32.725Z"}
+
+I, [2015-04-28T08:32:16.096683 #28960]  INFO -- : 2015-04-28 08:32:16 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi, Sipei
+
+I, [2015-04-28T16:04:37.829740 #28960]  INFO -- : 2015-04-28 16:04:37 -0400: 
+
+I, [2015-04-28T20:00:39.818135 #28960]  INFO -- : 2015-04-28 20:00:39 -0400: Shicheng, Hanyue
+
+I, [2015-04-28T20:24:47.027444 #28960]  INFO -- : 2015-04-28 20:24:47 -0400: Shicheng
+
+I, [2015-04-28T20:30:00.974180 #28960]  INFO -- : 2015-04-28 20:30:00 -0400: Shicheng, Hanyue
+
+I, [2015-04-28T20:37:15.028842 #28960]  INFO -- : 2015-04-28 20:37:15 -0400: Shicheng, Hanyue
+
+I, [2015-04-29T12:19:25.353761 #28960]  INFO -- : 2015-04-29 12:19:25 -0400: Hanyue, Sipei
+
+I, [2015-04-29T14:49:50.169071 #28960]  INFO -- : 2015-04-29 14:49:50 -0400: Hanyue
+
+I, [2015-04-29T19:29:58.294433 #28960]  INFO -- : 2015-04-29 19:29:58 -0400: Xiaoxi
+
+I, [2015-04-30T01:06:08.798074 #28960]  INFO -- : 2015-04-30 01:06:08 -0400: Hanyue, Xiaoxi, Zhengyang, Jiesi
+
+I, [2015-04-30T01:07:38.204215 #28960]  INFO -- : 2015-04-30 01:07:38 -0400: Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-05-02T05:40:53.942776 #496]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-05-02T09:40:06.232Z"}
+
+I, [2015-05-02T05:40:54.053683 #496]  INFO -- : 2015-05-02 05:40:54 -0400: Hanyue, Xiaoxi, Jiesi, Jianhe
+
+I, [2015-05-02T11:45:17.720746 #10420]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-05-02T15:44:36.517Z"}
+
+I, [2015-05-02T11:45:17.751165 #10420]  INFO -- : 2015-05-02 11:45:17 -0400: Shicheng, Xiaoxi, Zhengyang, Jianhe
+
+I, [2015-05-02T14:15:42.598054 #10420]  INFO -- : 2015-05-02 14:15:42 -0400: Xiaoxi, Zhengyang, Jianhe
+
+I, [2015-05-02T15:31:09.274568 #10420]  INFO -- : 2015-05-02 15:31:09 -0400: Zhengyang, Jianhe
+
+I, [2015-05-02T19:08:52.480219 #10420]  INFO -- : 2015-05-02 19:08:52 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-05-02T21:49:54.221960 #10420]  INFO -- : 2015-05-02 21:49:54 -0400: Shicheng, Hanyue, Xiaoxi, Zhengyang
+
+I, [2015-05-03T09:46:28.116890 #10420]  INFO -- : 2015-05-03 09:46:28 -0400: Xiaoxi, Zhengyang, Jianhe
+
+I, [2015-05-03T20:15:10.261401 #10420]  INFO -- : 2015-05-03 20:15:10 -0400: Shicheng, Xiaoxi, Zhengyang, Jianhe
+
+I, [2015-05-04T08:34:38.147602 #10420]  INFO -- : 2015-05-04 08:34:38 -0400: Shicheng, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-05-04T12:49:56.823930 #10420]  INFO -- : 2015-05-04 12:49:56 -0400: Sipei
+
+I, [2015-05-04T15:20:18.848849 #10420]  INFO -- : 2015-05-04 15:20:18 -0400: 
+
+I, [2015-05-06T09:08:03.273899 #19535]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-05-06T13:07:21.931Z"}
+
+I, [2015-05-06T09:08:03.324368 #19535]  INFO -- : 2015-05-06 09:08:03 -0400: Hanyue, Xiaoxi, Zhengyang, Sipei
+
+I, [2015-05-06T14:12:11.832750 #19535]  INFO -- : 2015-05-06 14:12:11 -0400: Xiaoxi, Sipei
+
+I, [2015-05-06T20:39:40.993360 #19535]  INFO -- : 2015-05-06 20:39:40 -0400: Shicheng
+
+I, [2015-05-07T21:07:24.796230 #28922]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-05-08T01:06:41.613Z"}
+
+I, [2015-05-07T21:07:24.822466 #28922]  INFO -- : 2015-05-07 21:07:24 -0400: Xiaoxi
+
+I, [2015-05-08T10:59:52.621923 #4290]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-05-08T14:59:08.046Z"}
+
+I, [2015-05-08T10:59:52.652465 #4290]  INFO -- : 2015-05-08 10:59:52 -0400: Hanyue, Xiaoxi, Sipei
+
+I, [2015-05-08T12:16:15.867601 #4290]  INFO -- : 2015-05-08 12:16:15 -0400: Hanyue, Xiaoxi
+
+I, [2015-05-08T13:31:30.546501 #4290]  INFO -- : 2015-05-08 13:31:30 -0400: Xiaoxi
+
+I, [2015-05-08T16:01:50.606294 #4290]  INFO -- : 2015-05-08 16:01:50 -0400: 
+
+I, [2015-05-09T00:40:08.708203 #4290]  INFO -- : 2015-05-09 00:40:08 -0400: Shicheng, Hanyue, Jianhe
+
+I, [2015-05-09T11:59:16.054444 #9059]  INFO -- : {"id"=>"53ff6a066667574823282067", "name"=>"hanyue", "connected"=>true, "variables"=>{}, "functions"=>["blink", "turnon", "turnoff"], "cc3000_patch_version"=>"1.29", "last_heard"=>"2015-05-09T15:58:20.738Z"}
+
+I, [2015-05-09T11:59:16.091803 #9059]  INFO -- : 2015-05-09 11:59:16 -0400: Shicheng, Hanyue, Xiaoxi, Jiesi, Sipei, Jianhe
+
+I, [2015-05-09T14:29:30.726237 #9059]  INFO -- : 2015-05-09 14:29:30 -0400: Hanyue, Xiaoxi, Jiesi, Sipei, Jianhe
+
+I, [2015-05-09T15:44:50.690139 #9059]  INFO -- : 2015-05-09 15:44:50 -0400: Hanyue, Xiaoxi
+
+I, [2015-05-09T17:00:04.632779 #9059]  INFO -- : 2015-05-09 17:00:04 -0400: Xiaoxi
+
+I, [2015-05-09T21:22:50.468276 #9059]  INFO -- : 2015-05-09 21:22:50 -0400: Shicheng, Xiaoxi
+
+I, [2015-05-09T23:20:59.206971 #9059]  INFO -- : 2015-05-09 23:20:59 -0400: Shicheng, Xiaoxi, Sipei
+
+I, [2015-05-09T23:36:42.348857 #9059]  INFO -- : 2015-05-09 23:36:42 -0400: Shicheng, Xiaoxi, Jiesi, Sipei
+
+I, [2015-05-10T04:37:09.641704 #9059]  INFO -- : 2015-05-10 04:37:09 -0400: Shicheng, Hanyue, Xiaoxi, Jiesi, Sipei, Jianhe
+
